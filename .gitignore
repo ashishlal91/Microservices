@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.DS_STORE
+npm-debug.log
+build/
+package-lock.json
+yarn.lock
