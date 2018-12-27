@@ -1,0 +1,8 @@
+{
+  "name": "Microservice",
+  "version": "1.0.0",
+  "description": "Api doc",
+  "template": {
+    "withCompare": false
+  }
+}

@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-standard-plugin": "^1.0.0",
+    "express": "^4.16.4",
     "express-validation": "^1.0.2",
     "joi": "^14.3.0",
     "micro": "^9.3.3",
